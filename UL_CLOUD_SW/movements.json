@@ -1,0 +1,26 @@
+{
+	"movement1":{
+		"action": "move_forward",
+		"speed": 50,
+		"time_to_wait": 5
+	},
+	"movement2":{
+		"action": "move_reverse",
+		"speed": 51,
+		"time_to_wait": 2
+	},
+	"movement3": {
+		"action": "turn_right",
+		"grades": 25,
+		"time_to_wait": 5
+	},
+	"movement4":{
+		"action": "turn_left",
+		"grades": -50,
+		"time_to_wait": 5
+	},
+	"movement5":{
+		"action": "stop",
+		"time_to_wait": 2
+	}
+}
